@@ -15,6 +15,7 @@ p {
     text-align: center;
 }
 a {
+   font-family: 'Lucida Console', 'Courier New', monospace; 
     border: rgb(89, 28, 109) solid 5px;
     margin-left: 30px;
     margin-right: 30px;
